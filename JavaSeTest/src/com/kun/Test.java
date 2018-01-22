@@ -10,7 +10,7 @@ public class Test {
 		}
 	}
 	
-	public void sayHello(){
+	public void sayHello2(){
 		
 		
 	}
