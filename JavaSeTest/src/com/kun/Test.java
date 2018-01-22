@@ -12,6 +12,7 @@ public class Test {
 	
 	public void sayHello2(){
 		
+		System.out.println("My name is Kun!");
 		
 	}
 	
