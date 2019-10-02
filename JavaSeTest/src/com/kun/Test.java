@@ -13,7 +13,7 @@ public class Test {
 	
 	public void haha(){
 		
-		
+		int one = 111111111;
 		System.out.println(1111111);
 
 	}
