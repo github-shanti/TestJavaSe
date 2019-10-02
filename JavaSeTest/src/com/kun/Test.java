@@ -8,6 +8,14 @@ public class Test {
 		for (int i = 0; i < 5; i++) {
 			System.out.println(i);
 		}
+		
+	}
+	
+	public void haha(){
+		
+		
+		System.out.println(1111111);
+
 	}
 	
 	public void sayHello2(){
