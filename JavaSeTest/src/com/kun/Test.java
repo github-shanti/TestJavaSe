@@ -17,13 +17,5 @@ public class Test {
 		System.out.println(1111111);
 
 	}
-	
-	public void sayHello2(){
-		
-		System.out.println("My name is Kun!");
-		
-	}
-	
-	
 
 }
